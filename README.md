@@ -1,1 +1,1 @@
-test-v12
+test-v12-publicrepo
